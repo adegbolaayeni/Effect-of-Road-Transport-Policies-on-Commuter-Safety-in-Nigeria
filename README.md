@@ -54,6 +54,6 @@ It assesses how enforcement challenges, public perceptions, and infrastructure q
 
 ---
 
-💡 **Author:** Lekan  
-📧 Contact: your.email@example.com  
-🌐 Portfolio: [Your Website or LinkedIn](#)
+💡 **Author:** Adegbola Ayeni  
+📧 Contact: ayeniadegbolaelijah@gmail.com  
+🌐 Portfolio: https://github.com/adegbolaayeni
