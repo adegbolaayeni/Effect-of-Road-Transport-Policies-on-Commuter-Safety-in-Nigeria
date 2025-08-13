@@ -49,7 +49,7 @@ It assesses how enforcement challenges, public perceptions, and infrastructure q
 
 ## 🛠 Tools Used
 - Microsoft Excel → Data preparation
-- SPSS / Statistical tools → Descriptive & regression analysis
+- Python → Descriptive & regression analysis
 - Microsoft Word → Research documentation
 
 ---
